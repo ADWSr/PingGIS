@@ -1,3 +1,3 @@
-# PingGIS: The monitoring tool built exclusively for Geoservices.
+## PingGIS: The monitoring tool built exclusively for Geoservices.
 
 ​Geoservices present unique challenges that standard monitoring tools simply can't handle. PingGIS was built from the ground up to solve these problems. Our proprietary Deep Harvest monitoring goes far beyond a simple ping. It systematically scans every parent and critical child service within your directory, ensuring that even the most subtle, underlying failures are detected. You get instant access to our comprehensive dashboard and API, giving you the real-time data you need to diagnose and resolve issues immediately. By providing a truly comprehensive view of your services, PingGIS helps you reduce downtime, increase data accuracy, and maintain peak performance for all your users.
